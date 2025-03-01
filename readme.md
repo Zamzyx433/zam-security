@@ -19,7 +19,7 @@ const { validateUser } = require('flowfalcon-security');
 
 async function login() {
   try {
-    const number = await validateUser('FlowFalcon', '1221');
+    const number = await validateUser('zam', '1221');
     console.log(`Login berhasil untuk nomor: ${number}`);
   } catch (error) {
     console.error('Login gagal:', error.message);
