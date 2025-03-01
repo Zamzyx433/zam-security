@@ -1,11 +1,11 @@
-"name": "flowfalcon-security",
+"name": "zam-security",
   "version": "1.0.0",
   "description": "Security package for bot",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
-  "author": "FlowFalcon",
+  "author": "Zamzyx433",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -15,7 +15,7 @@
     "FlowFalcon"
   ],
   "bugs": {
-    "url": "https://github.com/FlowFalcon/flowfalcon-security/issues"
+    "url": "https://github.com/Zamzyx433/zam-security/issues"
   },
-  "homepage": "https://github.com/FlowFalcon/flowfalcon-security#readme"
+  "homepage": "https://github.com/Zamzyx433/zam-security#readme"
 } 
