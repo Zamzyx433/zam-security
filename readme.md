@@ -15,7 +15,7 @@ npm install flowfalcon-security
 
 Validasi User
 ```javascript
-const { validateUser } = require('flowfalcon-security');
+const { validateUser } = require('zam-security');
 
 async function login() {
   try {
@@ -30,7 +30,7 @@ login();
 ```
 Daftar User Baru
 ```javascript
-const { registerUser } = require('flowfalcon-security');
+const { registerUser } = require('zam-security');
 
 async function register() {
   try {
@@ -45,6 +45,6 @@ register();
 ```
 🐞 Laporan Bug
 
-Laporkan bug di [Issues](https://github.com/FlowFalcon/flowfalcon-security/issues).
+Laporkan bug di [Issues](https://github.com/Zamzyx433/zam-security/issues).
 
 ---
