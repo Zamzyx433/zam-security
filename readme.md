@@ -9,7 +9,7 @@ Security package sederhana untuk validasi user dan manajemen database bot.
 
 ## 📦 Instalasi
 ```bash
-npm install flowfalcon-security
+npm install zam-security
 ```
 🔧 Penggunaan
 
